@@ -35,4 +35,4 @@ The project is built using an **Arduino** board, **OLED display**, and simple bu
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Morse-Code-Decoder.git
+   git clone https://github.com/u0sf/Morse-Code-Decoder.git
